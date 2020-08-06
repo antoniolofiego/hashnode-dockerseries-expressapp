@@ -1,13 +1,14 @@
 {
     "name": "docker-express-app",
     "version": "1.0.0",
-    "description": "",
+    "description": "Simple Express application for my Docker tutorial series on Hashnode",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Antonio Lo Fiego",
+    "repository": "https://github.com/antoniolofiego/hashnode-dockerseries-expressapp/",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1"
