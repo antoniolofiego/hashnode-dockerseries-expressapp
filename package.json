@@ -4,7 +4,7 @@
     "description": "Simple Express application for my Docker tutorial series on Hashnode",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node src/server.js"
     },
     "keywords": [],
     "author": "Antonio Lo Fiego",
